@@ -1,6 +1,7 @@
 [
 
     {
+        "id": "system1",
         "name": "System 1",
         "description": "Description system 1",
         "formula": "ATAQUE = (SALIDA + EFECTO) x LLEGADA",
@@ -15,6 +16,7 @@
         ]
     },
     {
+        "id": "llegadas-4-bandas",
         "name": "Llegadas a 4 bandas",
         "description": "Description llegadas a 4 bandas",
         "formula": "EFECTO = SALIDA + ATAQUE + LLEGADA",
