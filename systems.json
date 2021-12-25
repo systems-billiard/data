@@ -13,17 +13,17 @@
         ]
     },
     {
-        "id": "llegadas-4-bandas",
-        "name": "Llegadas a 4 bandas",
-        "description": "Description llegadas a 4 bandas",
-        "formula": "ATAQUE = (SALIDA + EFECTO) x LLEGADA",
+        "id": "zig-zag",
+        "name": "Zig Zag",
+        "description": "Description zig-zag",
+        "formula": "ATAQUE = SALIDA x LLEGADA",
         "images": 
         [
             {
-                "url": "https://secureservercdn.net/166.62.107.20/jkp.e14.myftpupload.com/wp-content/uploads/2020/06/PB4B_0-1024x575.png"
+                "url": "https://raw.githubusercontent.com/systems-billiard/data/main/images/zig-zag-largo.svg"
             },
             {
-                "url": "https://secureservercdn.net/166.62.107.20/jkp.e14.myftpupload.com/wp-content/uploads/2020/06/PB4B_1-1-1024x575.png"
+                "url": "https://raw.githubusercontent.com/systems-billiard/data/main/images/zig-zag-corto.svg"
             }
         ]
     }
