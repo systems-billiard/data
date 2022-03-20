@@ -8,7 +8,7 @@
         "images": 
         [
             {
-                "url": "https://raw.githubusercontent.com/systems-billiard/data/main/images/pase-bola.svg"
+                "url": "https://raw.githubusercontent.com/systems-billiard/data/main/images/pase-bola/pase-bola.svg"
             }
         ]
     },
@@ -20,10 +20,25 @@
         "images": 
         [
             {
-                "url": "https://raw.githubusercontent.com/systems-billiard/data/main/images/zig-zag-largo.svg"
+                "url": "https://raw.githubusercontent.com/systems-billiard/data/main/images/zig-zag/zig-zag-largo.svg"
             },
             {
-                "url": "https://raw.githubusercontent.com/systems-billiard/data/main/images/zig-zag-corto.svg"
+                "url": "https://raw.githubusercontent.com/systems-billiard/data/main/images/zig-zag/zig-zag-corto.svg"
+            }
+        ]
+    },
+    {
+        "id": "mitades",
+        "name": "Mitades",
+        "description": "Description mitades",
+        "formula": "ATAQUE = SALIDA / 2",
+        "images": 
+        [
+            {
+                "url": "https://raw.githubusercontent.com/systems-billiard/data/main/images/mitades/mitades-largo.svg"
+            },
+            {
+                "url": "https://raw.githubusercontent.com/systems-billiard/data/main/images/mitades/mitades-corto.svg"
             }
         ]
     }
